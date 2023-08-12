@@ -1,4 +1,4 @@
-package budongbai;
+package budongbai.common;
 
 public class TreeNode {
     public int val;

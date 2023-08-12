@@ -1,6 +1,6 @@
 package budongbai.BinaryTree;
 
-import budongbai.TreeNode;
+import budongbai.common.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;
