@@ -1,4 +1,5 @@
-package budongbai.hard;
+package hard;
+
 
 import budongbai.common.ListNode;
 

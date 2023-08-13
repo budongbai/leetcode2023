@@ -1,4 +1,4 @@
-package budongbai.easy;
+package easy;
 
 /**
  * <a href="https://leetcode.cn/problems/matrix-diagonal-sum/description/">1572. 矩阵对角线元素的和</a>

@@ -1,4 +1,4 @@
-package budongbai.BinarySearchTree;
+package BinarySearchTree;
 
 /**
  * <a href="https://leetcode.cn/problems/unique-binary-search-trees/description/">96. 不同的二叉搜索树</a>

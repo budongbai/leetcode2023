@@ -1,4 +1,4 @@
-package budongbai.BinarySearchTree;
+package BinarySearchTree;
 
 import budongbai.common.TreeNode;
 
